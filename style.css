@@ -1,0 +1,36 @@
+body { 
+  display: flex;
+  font-family: 'Poiret One', cursive;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.bg_blur {
+  background-image: url("./mariam-soliman-331969-unsplash.jpg");
+  background-size: 125%;
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container {
+  background-color: rgba(37,27,40,0.8);
+  border: 2px ridge rgba(37,27,40,0.8);
+  box-sizing: border-box;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Poiret One', cursive;
+  font-size: 1.2em;
+  height: 90vh;
+  margin: 1.5em;
+  padding: 2em 10em;
+  position: fixed;
+  width: 82vw;
+  z-index: 2;
+}
+
+
