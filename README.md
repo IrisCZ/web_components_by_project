@@ -16,5 +16,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks a lot for the tips to [Jesús Jimenez](https://twitter.com/jjballano). 
-* Thanks to Mariam Soliman from unsplash.com to share her art.
+* Thanks a lot for the tips to [Jesús Jiménez](https://twitter.com/jjballano). 
+* Thanks to Mariam Soliman from [unsplash.com](unsplash.com) to share her art.
